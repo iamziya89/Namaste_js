@@ -16,7 +16,13 @@
 // console.log(names);
 
 
+// let names="MOHDZiya";
+// names=names.toLowerCase();
+// console.log(names);
+
+
+// Slice method
 let names="MOHDZiya";
-names=names.toLowerCase();
+names=names.slice(0,6);
 console.log(names);
 
