@@ -21,6 +21,33 @@
 // let firstName="Mohit";
 // console.log(firstName);// in let we can't declare first name twi times.
 
-let firstName="Harshit";
- firstName="Mohit";
-console.log(firstName);
+// let firstName="Harshit";
+//  firstName="Mohit";
+// console.log(firstName);
+
+
+
+// decleration of const
+
+// const pi=3.14;
+// console.log(pi);
+
+// const pi=3.14;
+// pi=3.15;
+// console.log(pi);// we can't change the constant value.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
