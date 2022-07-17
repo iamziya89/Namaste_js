@@ -23,6 +23,7 @@
 
 // Slice method
 let names="MOHDZiya";
-names=names.slice(0,6);
+// names=names.slice(0,6);
+names=names.slice(1);
 console.log(names);
 
