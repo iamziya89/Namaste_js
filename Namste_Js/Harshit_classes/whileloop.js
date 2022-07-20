@@ -19,3 +19,12 @@
 // let n=10;
 // let sum=(n*(n+1))/2;
 // console.log(sum);
+
+
+
+
+// For loops
+for(var i=0; i<=9;i++){
+    console.log(i);
+}
+console.log("value of i is",i)
