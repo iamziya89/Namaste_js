@@ -9,9 +9,16 @@
 // console.log(typeof +str);
 
 // Tempaltes strings
-let age=22;
-let firstname="Mohd Ziya";
-// console.log("My name is "+firstname+" and my age is "+age);
-let aboutMe=`My name is ${firstname} and my age is ${age}`
-console.log(aboutMe);
+// let age=22;
+// let firstname="Mohd Ziya";
+// // console.log("My name is "+firstname+" and my age is "+age);
+// let aboutMe=`My name is ${firstname} and my age is ${age}`
+// console.log(aboutMe);
+
+
+// lets learn undefined and null
+// let names;
+// console.log(names);
+// var names; 
+// console.log(names);
 
