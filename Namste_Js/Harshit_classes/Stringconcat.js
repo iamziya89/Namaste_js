@@ -22,3 +22,15 @@
 // var names; 
 // console.log(names);
 
+
+
+// NULL
+// let myVar=null;
+// console.log(myVar);
+// myVar="Mohd Ziya"
+// console.log(typeof myVar,myVar);
+
+
+// BIGINT
+let myNum=BigInt(1323574675);
+console.log(myNum);
