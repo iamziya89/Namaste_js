@@ -15,8 +15,13 @@
 
 
 //
-let firstName="Mohd Ziya";
-let age=23;
-if(firstName[0]==="M" && age>18){
-    console.log("Name starts with M and age above 18");
-}
+// let firstName="Mohd Ziya";
+// let age=23;
+// if(firstName[0]==="M" && age>18){
+//     console.log("Name starts with M and age above 18");
+// }
+
+
+
+let numbers=19;
+let userGuess=prompt("Guess a number");
