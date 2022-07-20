@@ -6,5 +6,8 @@
 
 // Cnversion from number to strings
 let age=54;
- console.log(typeof age);  // number
-console.log(typeof (age+" "));
+//  console.log(typeof age);  // number
+// console.log(typeof (age+" "));  // string
+
+let str=age+"";
+console.log(typeof(str));
