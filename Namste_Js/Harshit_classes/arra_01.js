@@ -7,9 +7,12 @@
 // console.log(fruits[3]);
 
 
-let fruits=["Apple","Mango","Grapes","Orange"];
-// console.log(fruits);
-// fruits[1]="Mohd Ziya";
-// console.log(fruits);
-// console.log(typeof fruits);
-console.log(Array.isArray(fruits));
+// let fruits=["Apple","Mango","Grapes","Orange"];
+// // console.log(fruits);
+// // fruits[1]="Mohd Ziya";
+// // console.log(fruits);
+// // console.log(typeof fruits);
+// console.log(Array.isArray(fruits));
+
+let obj={};
+console.log(Array.isArray(obj));
