@@ -8,5 +8,7 @@
 
 //   Pop last array ke last element ko remove kar deta hai
 let fruits=["Apple","Mango","Grapes","Orange"];
-fruits.pop();
+// fruits.pop();
+// console.log(fruits);
+console.log(fruits.pop());
 console.log(fruits);
