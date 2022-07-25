@@ -43,3 +43,7 @@
 // geek[0]=10;
 // console.log(geek,arr);
 
+//  Delete element on arrays
+var arr=["Rahul","Ram",56,68,"Ramesh"];
+delete arr[0];
+console.log(arr);
