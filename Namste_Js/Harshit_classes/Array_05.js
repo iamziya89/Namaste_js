@@ -9,5 +9,9 @@
 // console.log(arr[0])
 
 
-var arr=[,,]
-console.log(arr[0],arr[1],arr[2],arr[3])
+// var arr=[,,]
+// console.log(arr[0],arr[1],arr[2],arr[3])
+
+var a=10,b=20,c=30;
+var arr=[a,b,c]
+console.log(arr);
