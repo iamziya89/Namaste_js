@@ -44,6 +44,24 @@
 // console.log(geek,arr);
 
 //  Delete element on arrays
+// var arr=["Rahul","Ram",56,68,"Ramesh"];
+// // delete arr[0];
+// // console.log(arr);
+// for(let i=0;i<arr.length;i++){
+//     console.log(arr[i]);
+// }
+
+//   forEach loop
+// var arr=["Rahul","Ram",56,68,"Ramesh"];
+// arr.forEach(function(names, index){
+//     console.log(names+' '+":"+index);
+// })
+
+
+//   forOf loops
 var arr=["Rahul","Ram",56,68,"Ramesh"];
-delete arr[0];
-console.log(arr);
+    for(let value of arr){
+console.log(value);
+}
+
+
