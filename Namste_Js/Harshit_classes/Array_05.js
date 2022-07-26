@@ -82,7 +82,10 @@
 // console.log(sum)
 
 var arr=["Rahul","Ram",56,"Anas"]
-delete arr[0];
-console.log(arr);
+// delete arr[0];
+// console.log(arr);
+arr.forEach(function(value,index){
+    console.log(value+" "+index);
+});
 
 
