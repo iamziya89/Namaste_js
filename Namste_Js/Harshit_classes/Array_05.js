@@ -59,9 +59,30 @@
 
 
 //   forOf loops
-var arr=["Rahul","Ram",56,68,"Ramesh"];
-    for(let value of arr){
-console.log(value);
-}
+// var arr=["Rahul","Ram",56,68,"Ramesh"];
+//     for(let value of arr){
+// console.log(value);
+// }
+
+
+//   Multidimansional array
+// var geek=[
+//     ["Rahul","Dell",10],
+//     ["Ram","hp",20],
+//     ["John","Zed",30]
+// ]
+// for(let i=0;i<geek.length;i++){
+//     var sum=0
+//     // for(let j=0; j<geek[0].length;j++){
+//     //     // console.log(geek[i][j]);
+//     //     sum+=geek[i][2];
+//     // }
+//     sum+=geek[i][2];
+// }
+// console.log(sum)
+
+var arr=["Rahul","Ram",56,"Anas"]
+delete arr[0];
+console.log(arr);
 
 
