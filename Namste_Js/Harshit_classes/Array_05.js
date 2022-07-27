@@ -150,16 +150,34 @@
 
 
 //  Splice() method
-var arr=["Rahul","Sonam","Sumit","Raj","Rohan"];
-// arr.splice(2);
+// var arr=["Rahul","Sonam","Sumit","Raj","Rohan"];
+// // arr.splice(2);
+// // console.log(arr);
+// // arr.splice(2,1);
+// // console.log(arr);
+// // arr.splice(2,3);
+// // console.log(arr);
+// arr.splice(2,0,"Dell","Hp");
 // console.log(arr);
-// arr.splice(2,1);
-// console.log(arr);
-// arr.splice(2,3);
-// console.log(arr);
-arr.splice(2,0,"Dell","Hp");
-console.log(arr);
 
+
+//   indexOf ()
+// var arr=["Rahul","Sonam","Sumit","Raj","Raj"]
+// var pos=arr.indexOf("Ramesh");
+// console.log(pos);
+// var pos=arr.indexOf("Sumit");
+// console.log(pos);
+// var pos=arr.indexOf("Raj",3);
+// console.log(pos);
+
+// var arr=["Rahul","Sonam","Raj","Sumit","Raj"]
+// var pos=arr.indexOf("Raj",3)
+// console.log(pos);
+
+// //   Fill() method
+// var arr=["Rahul","Sonam","Raj","Sumit","Raj"]
+// arr.fill("Altamash")
+// console.log(arr);
 
 
 
