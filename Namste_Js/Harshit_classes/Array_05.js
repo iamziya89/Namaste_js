@@ -126,6 +126,8 @@
 
 //  Slice method
 var arr=["Rahul","Sonam","Sumit","Raj","Rohan"]
-let new_arr=arr.slice(1,3)
-console.log(new_arr)
+// let new_arr=arr.slice(1,3)
+// console.log(new_arr)
+// console.log(arr.slice(-3,-1));
+console.log(arr.slice(1,9));
 
