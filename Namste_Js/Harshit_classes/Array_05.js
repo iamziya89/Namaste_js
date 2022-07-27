@@ -179,9 +179,9 @@
 // arr.fill("Altamash")
 // console.log(arr);
 
-var arr=["Rahul","Sonam","Raj","Sumit","Raj"]
-arr.fill("Ramesh",1,4)
-console.log(arr);
+// var arr=["Rahul","Sonam","Raj","Sumit","Raj"]
+// arr.fill("Ramesh",1,4)
+// console.log(arr);
 
 
 
