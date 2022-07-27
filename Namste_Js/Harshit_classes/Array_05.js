@@ -151,7 +151,13 @@
 
 //  Splice() method
 var arr=["Rahul","Sonam","Sumit","Raj","Rohan"];
-arr.splice(2);
+// arr.splice(2);
+// console.log(arr);
+// arr.splice(2,1);
+// console.log(arr);
+// arr.splice(2,3);
+// console.log(arr);
+arr.splice(2,0,"Dell","Hp");
 console.log(arr);
 
 
