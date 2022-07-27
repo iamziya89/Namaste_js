@@ -118,8 +118,14 @@
 
 
 
-//   reverse method
-let arr=["Rahul","Sonam","Sumit"]
-console.log(arr.reverse());
+// //   reverse method
+// let arr=["Rahul","Sonam","Sumit"]
+// console.log(arr.reverse());
 
+
+
+//  Slice method
+var arr=["Rahul","Sonam","Sumit","Raj","Rohan"]
+let new_arr=arr.slice(1,3)
+console.log(new_arr)
 
