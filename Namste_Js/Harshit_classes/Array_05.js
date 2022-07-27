@@ -136,5 +136,8 @@
 //  toString method
 var arr=["Rahul","Sonam","Sumit","Raj","Rohan"]
 // console.log(arr.toString());
-console.log(typeof arr.toString());
+// console.log(typeof arr.toString());
+// console.log(arr);
+console.log(arr.join(" / "));
+
 
