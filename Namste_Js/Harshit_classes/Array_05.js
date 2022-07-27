@@ -96,16 +96,30 @@
 // console.log(i);
 // }
 
+//   CONCAT Method
+// // var arr=["Rahul","Ram",56]
+// // // var arr1=["babu","kafeel","shahbaaz"]
+// // // console.log(arr.concat(arr1));
+// // var arr2=arr.concat("Mohd","Ziya");
+// // console.log(arr2);
 
-// var arr=["Rahul","Ram",56]
-// // var arr1=["babu","kafeel","shahbaaz"]
-// // console.log(arr.concat(arr1));
-// var arr2=arr.concat("Mohd","Ziya");
-// console.log(arr2);
+
+// var arr1=["Rahul","Ram"]
+// var arr2=["Mohd","Ziya"]
+// var arr3=["Anas Ziya"]
+// console.log(arr1.concat(arr2,arr3));
 
 
-var arr1=["Rahul","Ram"]
-var arr2=["Mohd","Ziya"]
-var arr3=["Anas Ziya"]
-console.log(arr1.concat(arr2,arr3));
+// //   Join method
+// // let arr=["Rahul","Sonam","Sumit"]
+// let arr=[45,80,90]
+// console.log( arr.join(","))
+// console.log( arr.join("and"))
+
+
+
+//   reverse method
+let arr=["Rahul","Sonam","Sumit"]
+console.log(arr.reverse());
+
 
