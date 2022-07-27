@@ -81,11 +81,27 @@
 // }
 // console.log(sum)
 
-var arr=["Rahul","Ram",56,"Anas"]
-// delete arr[0];
-// console.log(arr);
-arr.forEach(function(value,index){
-    console.log(value+" "+index);
-});
+// var arr=["Rahul","Ram",56,"Anas"]
+// // delete arr[0];
+// // console.log(arr);
+// arr.forEach(function(value,index){
+//     console.log(value+" "+index);
+// });
+
+// var arr=["Rahul","Ram",56,"Anas"]
+// arr.forEach(function(value,index){
+//     console.log(value+" : "+index);
+// });
+// for(let i of arr){
+// console.log(i);
+// }
+
+
+var arr=["Rahul","Ram",56]
+// var arr1=["babu","kafeel","shahbaaz"]
+// console.log(arr.concat(arr1));
+var arr2=arr.concat("Mohd","Ziya");
+console.log(arr2);
+
 
 
