@@ -134,10 +134,26 @@
 
 
 //  toString method
-var arr=["Rahul","Sonam","Sumit","Raj","Rohan"]
+// var arr=["Rahul","Sonam","Sumit","Raj","Rohan"]
 // console.log(arr.toString());
 // console.log(typeof arr.toString());
 // console.log(arr);
-console.log(arr.join(" / "));
+// console.log(arr.join(" / "));
+
+
+
+// //  Array.isArray()
+// var arr=["Rahul","Sonam","Sumit","Raj","Rohan"]
+// console.log(Array.isArray(arr));
+// // console.log(Array.isArray(["Rahul","Sonam","Sumit","Raj","Rohan"]));
+// console.log(Array.isArray("I am Ziya"));
+
+
+//  Splice() method
+var arr=["Rahul","Sonam","Sumit","Raj","Rohan"];
+arr.splice(2);
+console.log(arr);
+
+
 
 
