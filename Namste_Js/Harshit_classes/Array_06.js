@@ -16,5 +16,8 @@
 // console.log(`Mohd
 //                   Ziya`);
 
+// let str="Ziya"
+// console.log(`Hello ${str}`);
+
 let str="Ziya"
-console.log(`Hello ${str}`);
+console.log(`Hello ${str} How are you ${str}` );
