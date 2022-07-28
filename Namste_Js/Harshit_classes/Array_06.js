@@ -19,5 +19,15 @@
 // let str="Ziya"
 // console.log(`Hello ${str}`);
 
-let str="Ziya"
-console.log(`Hello ${str} How are you ${str}` );
+// let str="Ziya"
+// console.log(`Hello ${str} How are you ${str}` );
+
+// function myFun(say){
+//     return say;
+// }
+// console.log(`Hi ${myFun("Ziyaaaaaa")} how are you`);
+
+var str="Mohd Ziyal";
+// console.log(str.length);
+// console.log(str.charAt(5));
+console.log(str.charCodeAt(9));
