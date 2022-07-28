@@ -57,5 +57,21 @@
 // }
 
 
-let str="Hi Guys lets learn Javascripts"
-console.log(str.split(" "));
+// let str="Hi Guys lets learn Javascripts"
+// console.log(str.split(" "));
+
+// let str="Hi Guys lets learn Javascripts"
+// let arr=str.split(" ");
+// console.log(arr);
+// console.log(arr.length)
+// console.log(Array.isArray(arr));
+
+
+let str="Hi @ Guys @ lets @ learn @ Javascripts"
+let arr=str.split(" @ ");
+console.log(arr);
+
+
+
+
+
