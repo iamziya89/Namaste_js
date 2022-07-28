@@ -74,9 +74,14 @@
 
 
 //  indexOf()
-let str="Hi Guys lets learn Javascripts"
-console.log(str.indexOf("e"));
-console.log(str.indexOf("e",10));
+// let str="Hi Guys lets learn Javascripts"
+// console.log(str.indexOf("e"));
+// console.log(str.indexOf("e",10));
+// console.log(str.indexOf("lets"));
+
+//   search()
+let str="Hi Guys lets learn Javascripts";
+console.log(str.search("e"));
 
 
 
