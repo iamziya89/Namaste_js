@@ -67,9 +67,18 @@
 // console.log(Array.isArray(arr));
 
 
-let str="Hi @ Guys @ lets @ learn @ Javascripts"
-let arr=str.split(" @ ");
-console.log(arr);
+// let str="Hi @ Guys @ lets @ learn @ Javascripts"
+// let arr=str.split(" @ ");
+// console.log(arr);
+// console.log(arr[2]);
+
+
+//  indexOf()
+let str="Hi Guys lets learn Javascripts"
+console.log(str.indexOf("e"));
+console.log(str.indexOf("e",10));
+
+
 
 
 
