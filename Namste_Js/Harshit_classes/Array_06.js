@@ -38,5 +38,24 @@
 // var str="      Mohd Ziyal";
 // console.log(str.trim());
 
-var str="Mohd Ziyal       ";
-console.log(str.trim());
+// var str="Mohd Ziyal       ";
+// console.log(str.trim());
+
+// var str="Hello Geeky";
+// console.log(str.replace("Geeky","World"));
+// console.log("10"-"20");
+// console.log("10"*"20");
+// console.log("b"*"20");
+// console.log([10]==[10]);
+
+
+// let news = "vasanth is a good teacher";
+// if(news.includes("vasanth")){
+//     console.log("yes");
+// }else{
+//     console.log("No")
+// }
+
+
+let str="Hi Guys lets learn Javascripts"
+console.log(str.split(" "));
