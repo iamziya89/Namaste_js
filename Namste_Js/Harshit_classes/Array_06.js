@@ -27,7 +27,16 @@
 // }
 // console.log(`Hi ${myFun("Ziyaaaaaa")} how are you`);
 
-var str="Mohd Ziyal";
+// var str="Mohd Ziyal";
 // console.log(str.length);
 // console.log(str.charAt(5));
-console.log(str.charCodeAt(9));
+// console.log(str.charCodeAt(9));
+// console.log(str.toUpperCase());
+// console.log(str.toLowerCase());
+
+
+// var str="      Mohd Ziyal";
+// console.log(str.trim());
+
+var str="Mohd Ziyal       ";
+console.log(str.trim());
