@@ -79,9 +79,19 @@
 // console.log(str.indexOf("e",10));
 // console.log(str.indexOf("lets"));
 
-//   search()
-let str="Hi Guys lets learn Javascripts";
-console.log(str.search("e"));
+// //   search()
+// let str="Hi Guys lets learn Javascripts";
+// console.log(str.search("e"));
+
+// let str="Ziya"
+// for(let i=0;i<str.length;i++){
+//     console.log(str[i]);
+// }
+
+
+// slice ()
+let str="Hi Guys lets learn javascript";
+console.log(str.slice(8,15));
 
 
 
