@@ -90,8 +90,13 @@
 
 
 // slice ()
+// let str="Hi Guys lets learn javascript";
+// console.log(str.slice(8,15));
+
+//
 let str="Hi Guys lets learn javascript";
-console.log(str.slice(8,15));
+console.log(str.substring(8,14))
+
 
 
 
