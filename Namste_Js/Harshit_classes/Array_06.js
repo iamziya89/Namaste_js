@@ -94,8 +94,11 @@
 // console.log(str.slice(8,15));
 
 //
-let str="Hi Guys lets learn javascript";
-console.log(str.substring(8,14))
+// let str="Hi Guys lets learn javascript";
+// console.log(str.substring(8,14))
+
+// let str="Hi Guys lets learn javascript";
+// console.log(str.substr(8,8));
 
 
 
