@@ -101,6 +101,16 @@
 // console.log(str.substr(8,8));
 
 
+let Obj={
+    fname:"Mohd",
+    lname:"Ziya",
+    age:28,
+    profession:"Webdevloper"
+}
+// console.log(Obj);
+console.log(Obj.fname,Obj.lname,Obj.age);
+
+
 
 
 
