@@ -108,7 +108,18 @@ let Obj={
     profession:"Webdevloper"
 }
 // console.log(Obj);
-console.log(Obj.fname,Obj.lname,Obj.age);
+// console.log(Obj.fname,Obj.lname,Obj.age);
+
+
+// Obj.age=43;
+// Obj.lname="Anas"
+// console.log(Obj.age,Obj.lname);
+
+Obj.mname="Anas";
+console.log(Obj)
+
+delete Obj.mname;
+console.log(Obj)
 
 
 
