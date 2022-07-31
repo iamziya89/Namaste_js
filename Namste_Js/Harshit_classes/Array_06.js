@@ -213,8 +213,13 @@
 // var str="Hi Mohammad Ziya Shameem Bhai"
 
 // console.log(str.split(" "));
-let arr=["Mohd","Ziya","Shameem"]
-console.log(arr.join(' '));
+// let arr=["Mohd","Ziya","Shameem"]
+// console.log(arr.join(' '));
+
+let x=220;
+let y="hello"
+let z=undefined
+console.log(y && z)
 
 
 
