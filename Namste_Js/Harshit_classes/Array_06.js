@@ -115,11 +115,27 @@ let Obj={
 // Obj.lname="Anas"
 // console.log(Obj.age,Obj.lname);
 
-Obj.mname="Anas";
-console.log(Obj)
+// Obj.mname="Anas";
+// console.log(Obj)
 
-delete Obj.mname;
-console.log(Obj)
+// delete Obj.mname;
+// console.log(Obj)
+
+
+// let n=12354;
+// let sum=0
+// while(n>0){
+//     let rem=n%10;
+//     n=Math.floor(n/10);
+//     sum+=rem;
+// }
+// console.log(sum);
+
+let arr=[];
+arr[0]=2;
+arr[1]=24;
+arr[78]=54;
+console.log(arr.length)
 
 
 
