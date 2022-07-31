@@ -169,12 +169,52 @@
 //     }
 // }
 
-arr[i]+" "+"Even"
+// let arr=[13,24,5,34,5,1,12,8,9]
+// let even=[];
+// let Odd=[];
+// for(let i=0;i<arr.length;i++){
+//     if(arr[i]%2==0){
+//         even.push(arr[i]);
+//     }
+//     else{
+//         Odd.push(arr[i])
+//     }
+// }
+// console.log(Odd,even)
 
 
 
+// let arr1=[1,2,3]
+// let arr2=[4,5,6]
+// let arr3=[7,8,9]
+// console.log([...arr1,...arr2,...arr3]);
 
+// console.log(age);
+// let age=10;
 
+// let arr=["Mohd","Ziya","Shameem"]
+// let new_arr=arr.join('');
+// console.log(new_arr);
+// console.log(Array.isArray(new_arr));
+
+// console.log(new_arr.length);
+// console.log(arr.join());
+// console.log(arr.reverse());
+
+// let arr=["Mohd","Ziya","Shameem","Anas","AliAkbar","Asgar"]
+// console.log(arr.join(", "))
+// let new_arr=arr.toString()
+// console.log(Array.isArray(new_arr));
+// let new_arr=arr.splice(2);
+// console.log(new_arr)
+// console.log(arr.splice(2));
+// arr.splice(2,3);
+// console.log(arr);
+// var str="Hi Mohammad Ziya Shameem Bhai"
+
+// console.log(str.split(" "));
+let arr=["Mohd","Ziya","Shameem"]
+console.log(arr.join(' '));
 
 
 
