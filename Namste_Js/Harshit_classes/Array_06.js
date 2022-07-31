@@ -131,11 +131,18 @@ let Obj={
 // }
 // console.log(sum);
 
-let arr=[];
-arr[0]=2;
-arr[1]=24;
-arr[78]=54;
-console.log(arr.length)
+// let arr=[];
+// arr[0]=2;
+// arr[1]=24;
+// arr[78]=54;
+// console.log(arr.length)
+
+
+console.log(10+"20")
+console.log("10"+20)
+console.log("10"+"20")
+console.log(10+20)
+console.log("a"-"b")
 
 
 
