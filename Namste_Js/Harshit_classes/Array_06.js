@@ -101,12 +101,12 @@
 // console.log(str.substr(8,8));
 
 
-let Obj={
-    fname:"Mohd",
-    lname:"Ziya",
-    age:28,
-    profession:"Webdevloper"
-}
+// let Obj={
+//     fname:"Mohd",
+//     lname:"Ziya",
+//     age:28,
+//     profession:"Webdevloper"
+// }
 // console.log(Obj);
 // console.log(Obj.fname,Obj.lname,Obj.age);
 
@@ -144,8 +144,32 @@ let Obj={
 // console.log(10-"20")
 // console.log("a"-"10")
 
-console.log("20"-"b")
+// console.log("20"-"b")
 
+// console.log("Abc" && undefined)
+// console.log(Math.floor(8.9999999999999999))
+// console.log(Math.ceil(8.000000000000000000222))
+
+// let arr=[13,24,5,34,5,1,12,8,9]
+// var min=arr[0];
+// for(let i=1;i<arr.length;i++){
+//     if(arr[i]<min){
+//      min=arr[i];
+//     }
+// }
+// console.log(min);
+
+// let arr=[13,24,5,34,5,1,12,8,9]
+// for(let i=0;i<arr.length;i++){
+//     if(arr[i]%2==0){
+//         console.log(arr[i]+" "+"Even")
+//     }
+//     else{
+//         console.log(arr[i]+" "+"Odd")
+//     }
+// }
+
+arr[i]+" "+"Even"
 
 
 
