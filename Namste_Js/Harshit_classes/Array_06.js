@@ -138,11 +138,14 @@ let Obj={
 // console.log(arr.length)
 
 
-console.log(10+"20")
-console.log("10"+20)
-console.log("10"+"20")
-console.log(10+20)
-console.log("a"-"b")
+// console.log(10-"20")
+// console.log("10"-20)
+// console.log("10"-"20")
+// console.log(10-"20")
+// console.log("a"-"10")
+
+console.log("20"-"b")
+
 
 
 
