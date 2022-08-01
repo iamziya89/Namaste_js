@@ -20,16 +20,41 @@
 // console.log(person.age);
 
 
+// const person={
+//     name:"Ziya",
+//     age:25,
+//     hobbies:["Music","Cricket","Football"]
+// }
+// // // console.log(person.hobbies[1]);
+// // person.gender="Male"      OR     person["gender"]="Male"
+// // console.log(person);
+
+// // console.log(person["hobbies"]);
+
+const key="email";
 const person={
     name:"Ziya",
     age:25,
-    hobbies:["Music","Cricket","Football"]
+    "person hobbies":["Music","Cricket","Football"]
 }
-// // console.log(person.hobbies[1]);
-// person.gender="Male"      OR     person["gender"]="Male"
-// console.log(person);
+// // console.log(person["person hobbies"]);
 
-// console.log(person["hobbies"]);
+// // person.key="mohdzoia@gmail.com"
+// person[key]="mohdzoia@gmail.com"
+// console.log(person);
+// console.log(person.length)
+
+for(let k in person){
+    console.log(k)
+}
+
+
+
+
+
+
+
+
 
 
 
