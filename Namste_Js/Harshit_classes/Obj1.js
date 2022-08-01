@@ -26,10 +26,11 @@ const person={
     hobbies:["Music","Cricket","Football"]
 }
 // // console.log(person.hobbies[1]);
-// person.gender="Male"
+// person.gender="Male"      OR     person["gender"]="Male"
 // console.log(person);
 
-console.log(person["hobbies"]);
+// console.log(person["hobbies"]);
+
 
 
 
