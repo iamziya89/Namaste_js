@@ -31,12 +31,12 @@
 
 // // console.log(person["hobbies"]);
 
-const key="email";
-const person={
-    name:"Ziya",
-    age:25,
-    "person hobbies":["Music","Cricket","Football"]
-}
+// const key="email";
+// const person={
+//     name:"Ziya",
+//     age:25,
+//     "person hobbies":["Music","Cricket","Football"]
+// }
 // // console.log(person["person hobbies"]);
 
 // // person.key="mohdzoia@gmail.com"
@@ -51,6 +51,24 @@ const person={
 // for(let k in person){
 //     console.log(person[k])
 // }
+
+
+const per={
+    fname:"Mohd",
+    lname:"Ziya",
+    age:25,
+    fun:function (){
+        console.log("Arbaz")
+    }
+    console.log(per)
+
+}
+
+
+
+
+
+
 
 
 
