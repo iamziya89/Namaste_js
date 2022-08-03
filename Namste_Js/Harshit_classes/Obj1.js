@@ -60,9 +60,8 @@ const per={
     fun:function (){
         console.log("Arbaz")
     }
-    console.log(per)
-
 }
+console.log(per)
 
 
 
