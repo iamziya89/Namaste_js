@@ -57,11 +57,11 @@ const per={
     fname:"Mohd",
     lname:"Ziya",
     age:25,
-    fun:function (){
+    fun:function sum(){
         console.log("Arbaz")
     }
 }
-console.log(per)
+console.log(per.fun.sum)
 
 
 
