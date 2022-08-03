@@ -44,9 +44,13 @@ const person={
 // console.log(person);
 // console.log(person.length)
 
-for(let k in person){
-    console.log(k)
-}
+// for(let k in person){
+//     console.log(k)
+// }
+
+// for(let k in person){
+//     console.log(person[k])
+// }
 
 
 
